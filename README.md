@@ -4,9 +4,3 @@
 - 🌱 I’m currently looking deeper into **.Net**!
 
 - 📫 How to reach me: **me@nicolaj.dev**
-
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&pause=1000&color=FFFFFF&background=FFFFFF00&repeat=false&random=true&width=435&lines=Skills%3A" alt="Typing SVG" />
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,react,cs,typescript,nodejs,bun,dotnet,express,vite,bash,bootstrap,mongodb,git,github,postman,unity,vscode,figma,xd,illustrator,autocad,latex&perline=5" />
-</p>
