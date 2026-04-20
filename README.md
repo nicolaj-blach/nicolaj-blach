@@ -3,4 +3,4 @@
 
 - 🌱 I’m currently looking deeper into **.Net**!
 
-- 📫 How to reach me: **me@nicolaj.dev**
+- 📫 How to reach me: **me@nicolaj-blach.dev**
